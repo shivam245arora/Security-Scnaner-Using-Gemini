@@ -26,6 +26,7 @@ IMPACT: [One sentence on potential damage]
 FIX: [Code snippet only]
 ---
 
+
 Code:
 {code}
 """
