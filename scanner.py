@@ -56,3 +56,6 @@ try:
     print(add_colors_to_output(response.text))#response is the full Gemini response object with lots of metadata. response.text gives us just the readable text output - much cleaner!
 except Exception as e:
     print(f"❌ Connection failed: {e}")
+
+
+#python scanner.py vulnerable.py 
