@@ -24,6 +24,7 @@ TYPE: [Vulnerability Name]
 DESCRIPTION: [One sentence explaining the issue]
 IMPACT: [One sentence on potential damage]
 FIX: [Code snippet only]
+Joke:[Regrading the topic]
 ---
 
 
